@@ -1,0 +1,10 @@
+.jumbotron {
+  padding: 2rem 1rem;
+}
+.navbar {
+  background-color: #ff4400;
+}
+body {
+  background-color: rgb(75, 63, 63);
+  font-family: cursive;
+}
